@@ -12,7 +12,7 @@ body {
   background-repeat: no-repeat;
 }
 
-/* KART */
+
 .overlay {
   position: relative;
 
@@ -34,17 +34,17 @@ body {
 
 .sticker {
   position: absolute;
-  
+
   bottom: 20px;   
   left: 50%;
   transform: translateX(-50%);
   width: 90px;
 
   bottom: -30px;
+  bottom: 0px;
   left: 50%;
   transform: translateX(-50%);
-
-  width: 200px;
+  width: 150px;
   height: auto;
 
 }
