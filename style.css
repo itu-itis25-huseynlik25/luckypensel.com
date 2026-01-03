@@ -42,3 +42,15 @@ body {
   width: 150px;
   height: auto;
 }
+
+.overlay {
+  position: relative; 
+}
+
+.sticker {
+  position: absolute;
+  bottom: -40px; 
+  left: 50%;
+  transform: translateX(-50%);
+  width: 80px;
+}
